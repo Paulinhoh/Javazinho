@@ -1,7 +1,6 @@
 package edu.modulo01_devdojo;
 
 public class Aula04_Condicionais_Exercicio01 {
-
     public static void main(String[] args) {
 
         double salario = 70000;

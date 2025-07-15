@@ -1,7 +1,6 @@
 package edu.modulo01_devdojo;
 
 public class Aula04_Condicionais02 {
-
     public static void main(String[] args) {
 
         // idade < 15 -> categoria infantil

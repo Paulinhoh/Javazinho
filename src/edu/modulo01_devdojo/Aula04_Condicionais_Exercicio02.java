@@ -1,7 +1,6 @@
 package edu.modulo01_devdojo;
 
 public class Aula04_Condicionais_Exercicio02 {
-
     public static void main(String[] args) {
 
         // Utilizando switch e dados os valores de 1 a 7, imprima se é dia util ou final de semana

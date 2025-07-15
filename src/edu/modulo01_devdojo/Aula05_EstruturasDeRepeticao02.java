@@ -1,7 +1,6 @@
 package edu.modulo01_devdojo;
 
 public class Aula05_EstruturasDeRepeticao02 {
-
     // Imprima os primeiros 25 numeros de um novo dado valor. Por exemplo, 50
     public static void main(String[] args) {
 

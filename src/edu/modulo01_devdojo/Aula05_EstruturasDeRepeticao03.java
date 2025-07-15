@@ -1,7 +1,6 @@
 package edu.modulo01_devdojo;
 
 public class Aula05_EstruturasDeRepeticao03 {
-
     public static void main(String[] args) {
 
         double valorTotal = 30000;

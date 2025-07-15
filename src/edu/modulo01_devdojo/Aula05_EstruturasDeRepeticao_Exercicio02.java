@@ -1,7 +1,6 @@
 package edu.modulo01_devdojo;
 
 public class Aula05_EstruturasDeRepeticao_Exercicio02 {
-
     // Dado o valor de um carro, descubra em quantas vezes ele pode ser parcelado.
     // Condição valorParcela >= 1000
     public static void main(String[] args) {

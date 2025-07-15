@@ -1,7 +1,6 @@
 package edu.modulo01_devdojo;
 
 public class Aula04_Condicionais03 {
-
     public static void main(String[] args) {
 
         // Doar se salario > 5000

@@ -1,6 +1,7 @@
 package edu.modulo01_devdojo;
 
 public class Aula02_TiposPrimitivos {
+    @SuppressWarnings("unused")
     public static void main(String[] args) {
         // int, double, float, char, byte, short, long, boolean
         int age = 23;
