@@ -4,9 +4,9 @@ public class Aula04_Condicionais04 {
 
     public static void main(String[] args) {
 
-//      Imprima o dia da semana, considerando 1 como domingo
+        // Imprima o dia da semana, considerando 1 como domingo
         byte dia = 5;
-//      char, int, byte, short, enum, String
+        // char, int, byte, short, enum, String
         switch (dia) {
             case 1 -> System.out.println("Domingo");
             case 2 -> System.out.println("Segunda");
@@ -18,7 +18,7 @@ public class Aula04_Condicionais04 {
             default -> System.out.println("Opção Invalida");
         }
 
-//        Forma mais antiga do switch case
+        // Forma mais antiga do switch case
         char sexo = 'M';
         switch (sexo) {
             case 'M':
