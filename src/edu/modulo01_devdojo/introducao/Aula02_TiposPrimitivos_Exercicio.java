@@ -1,4 +1,4 @@
-package edu.modulo01_devdojo;
+package edu.modulo01_devdojo.introducao;
 /*
     Pratica
 

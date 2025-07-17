@@ -1,4 +1,4 @@
-package edu.modulo01_devdojo;
+package edu.modulo01_devdojo.introducao;
 
 public class Aula06_Arrays03 {
     @SuppressWarnings("unused")

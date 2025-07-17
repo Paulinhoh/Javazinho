@@ -1,4 +1,4 @@
-package edu.modulo01_devdojo;
+package edu.modulo01_devdojo.introducao;
 
 public class Aula03_Operadores {
     public static void main(String[] args) {

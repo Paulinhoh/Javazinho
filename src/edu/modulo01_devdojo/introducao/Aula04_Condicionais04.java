@@ -1,4 +1,4 @@
-package edu.modulo01_devdojo;
+package edu.modulo01_devdojo.introducao;
 
 public class Aula04_Condicionais04 {
     public static void main(String[] args) {
