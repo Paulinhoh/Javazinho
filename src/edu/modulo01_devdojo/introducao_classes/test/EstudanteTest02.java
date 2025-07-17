@@ -1,12 +1,12 @@
 package edu.modulo01_devdojo.introducao_classes.test;
 
-import edu.modulo01_devdojo.introducao_classes.dominio.Aula07_IntroducaoClasses01_Estudante;
+import edu.modulo01_devdojo.introducao_classes.dominio.Estudante;
 
-public class Aula07_IntroducaoClasses01_EstudanteTest02 {
+public class EstudanteTest02 {
     public static void main(String[] args) {
 
-        Aula07_IntroducaoClasses01_Estudante estudante = new Aula07_IntroducaoClasses01_Estudante();
-        Aula07_IntroducaoClasses01_Estudante estudante2 = new Aula07_IntroducaoClasses01_Estudante();
+        Estudante estudante = new Estudante();
+        Estudante estudante2 = new Estudante();
         
         estudante.nome = "Sanji";
         System.out.println(estudante.nome);
