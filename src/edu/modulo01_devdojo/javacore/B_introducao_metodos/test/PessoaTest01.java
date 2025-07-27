@@ -1,6 +1,6 @@
-package edu.modulo01_devdojo.B_introducao_metodos.test;
+package edu.modulo01_devdojo.javacore.B_introducao_metodos.test;
 
-import edu.modulo01_devdojo.B_introducao_metodos.dominio.Pessoa;
+import edu.modulo01_devdojo.javacore.B_introducao_metodos.dominio.Pessoa;
 
 public class PessoaTest01 {
     public static void main(String[] args) {
