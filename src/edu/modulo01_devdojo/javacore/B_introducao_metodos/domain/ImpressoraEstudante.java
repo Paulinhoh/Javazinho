@@ -1,4 +1,4 @@
-package edu.modulo01_devdojo.javacore.B_introducao_metodos.dominio;
+package edu.modulo01_devdojo.javacore.B_introducao_metodos.domain;
 
 public class ImpressoraEstudante {
 

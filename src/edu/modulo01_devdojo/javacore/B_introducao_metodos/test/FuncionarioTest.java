@@ -1,6 +1,6 @@
 package edu.modulo01_devdojo.javacore.B_introducao_metodos.test;
 
-import edu.modulo01_devdojo.javacore.B_introducao_metodos.dominio.Funcionario;
+import edu.modulo01_devdojo.javacore.B_introducao_metodos.domain.Funcionario;
 
 public class FuncionarioTest {
     public static void main(String[] args) {

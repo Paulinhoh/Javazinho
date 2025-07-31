@@ -1,6 +1,6 @@
 package edu.modulo01_devdojo.javacore.B_introducao_metodos.test;
 
-import edu.modulo01_devdojo.javacore.B_introducao_metodos.dominio.Estudante;
+import edu.modulo01_devdojo.javacore.B_introducao_metodos.domain.Estudante;
 
 public class EstudanteTest02 {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
 package edu.modulo01_devdojo.javacore.B_introducao_metodos.test;
 
-import edu.modulo01_devdojo.javacore.B_introducao_metodos.dominio.Calculadora;
+import edu.modulo01_devdojo.javacore.B_introducao_metodos.domain.Calculadora;
 
 public class CalculadoraTest05 {
     public static void main(String[] args) {

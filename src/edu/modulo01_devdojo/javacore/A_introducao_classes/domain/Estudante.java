@@ -1,4 +1,4 @@
-package edu.modulo01_devdojo.javacore.A_introducao_classes.dominio;
+package edu.modulo01_devdojo.javacore.A_introducao_classes.domain;
 
 public class Estudante {
     

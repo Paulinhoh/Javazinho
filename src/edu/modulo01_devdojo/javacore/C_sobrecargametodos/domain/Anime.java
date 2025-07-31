@@ -1,4 +1,4 @@
-package edu.modulo01_devdojo.javacore.C_sobrecargametodos.dominio;
+package edu.modulo01_devdojo.javacore.C_sobrecargametodos.domain;
 
 public class Anime {
     private String nome;

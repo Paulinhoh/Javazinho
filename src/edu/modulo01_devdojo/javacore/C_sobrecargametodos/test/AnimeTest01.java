@@ -1,6 +1,6 @@
 package edu.modulo01_devdojo.javacore.C_sobrecargametodos.test;
 
-import edu.modulo01_devdojo.javacore.C_sobrecargametodos.dominio.Anime;
+import edu.modulo01_devdojo.javacore.C_sobrecargametodos.domain.Anime;
 
 public class AnimeTest01 {
     public static void main(String[] args) {

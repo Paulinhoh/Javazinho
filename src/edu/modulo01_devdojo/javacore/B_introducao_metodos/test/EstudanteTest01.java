@@ -1,7 +1,7 @@
 package edu.modulo01_devdojo.javacore.B_introducao_metodos.test;
 
-import edu.modulo01_devdojo.javacore.B_introducao_metodos.dominio.Estudante;
-import edu.modulo01_devdojo.javacore.B_introducao_metodos.dominio.ImpressoraEstudante;
+import edu.modulo01_devdojo.javacore.B_introducao_metodos.domain.Estudante;
+import edu.modulo01_devdojo.javacore.B_introducao_metodos.domain.ImpressoraEstudante;
 
 public class EstudanteTest01 {
     public static void main(String[] args) {
