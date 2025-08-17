@@ -28,5 +28,7 @@ public class Exercicio05 {
         } else {
             System.out.println("Você recebe " + contador + " salarios minimos");
         }
+
+        scan.close();
     }
 }

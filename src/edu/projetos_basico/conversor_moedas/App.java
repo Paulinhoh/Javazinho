@@ -26,5 +26,7 @@ public class App {
         if (valorConvertido != null) {
             System.out.println("Valor convertido: " + valorConvertido);
         }
+
+        scan.close();
     }
 }

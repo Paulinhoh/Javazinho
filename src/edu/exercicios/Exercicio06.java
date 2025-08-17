@@ -18,5 +18,7 @@ public class Exercicio06 {
 
         System.out.println("Aumento de 5% " + (valor + reajuste));
         System.out.println("Desconto de 5% " + (valor - reajuste));
+
+        scan.close();
     }
 }

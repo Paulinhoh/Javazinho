@@ -17,5 +17,7 @@ public class Exercicio20 {
         for (int i = 1; i < 11; i++) {
             System.out.println("{" + valor + "} x {" + i + "} = {" + (i * valor) + "}");
         }
+
+        scan.close();
     }
 }

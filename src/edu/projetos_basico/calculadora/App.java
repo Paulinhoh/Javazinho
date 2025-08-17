@@ -39,5 +39,6 @@ public class App {
             System.out.println("Resultado: " + resultado);
         }
 
+        scan.close();
     }
 }

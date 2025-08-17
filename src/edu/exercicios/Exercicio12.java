@@ -39,5 +39,7 @@ public class Exercicio12 {
         } else {
             System.out.println("Valor final: " + (valor + (valor*0.10)));
         }
+
+        scan.close();
     }
 }

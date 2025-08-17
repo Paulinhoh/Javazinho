@@ -31,5 +31,7 @@ public class Exercicio03 {
         }
 
         System.out.println("Resultado: " + c);
+
+        scan.close();
     }
 }

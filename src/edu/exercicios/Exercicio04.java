@@ -17,5 +17,7 @@ public class Exercicio04 {
 
         System.out.println("Antecessor: " + (a - 1));
         System.out.println("Sucessor: " + (a + 1));
+
+        scan.close();
     }
 }

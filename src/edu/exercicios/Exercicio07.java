@@ -25,5 +25,7 @@ public class Exercicio07 {
         } else {
             System.out.println("VALORES DIFERENTES");
         }
+
+        scan.close();
     }
 }

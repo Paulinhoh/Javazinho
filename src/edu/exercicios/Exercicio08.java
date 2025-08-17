@@ -28,5 +28,7 @@ public class Exercicio08 {
         for(int valor: valores) {
             System.out.print(valor + " ");
         }
+
+        scan.close();
     }
 }

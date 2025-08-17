@@ -43,5 +43,7 @@ public class Exercicio09 {
         } else {
             System.out.println("Obesidade grau III (mórbida)");
         }
+
+        scan.close();
     }
 }

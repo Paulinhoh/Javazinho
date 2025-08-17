@@ -35,5 +35,6 @@ public class Exercicio01 {
         System.out.println("Resultado da soma de A + B: " + somaAB);
         System.out.println("A soma de A + B é " + resultadoC + " que C");
 
+        scan.close();
     }
 }

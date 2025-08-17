@@ -20,5 +20,7 @@ public class Exercicio02 {
         } else {
             System.out.println("O numero " + numero + " é impar");
         }
+
+        scan.close();
     }
 }

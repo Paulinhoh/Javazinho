@@ -22,5 +22,7 @@ public class Exercicio13 {
         } else {
             System.out.println(nome+ ", você é menor de idade");
         }
+
+        scan.close();
     }
 }
