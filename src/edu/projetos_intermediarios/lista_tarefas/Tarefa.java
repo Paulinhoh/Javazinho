@@ -1,4 +1,4 @@
-package edu.projetos_intermediarios.toDo;
+package edu.projetos_intermediarios.lista_tarefas;
 
 public class Tarefa {
     private String description;

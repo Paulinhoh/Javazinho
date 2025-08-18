@@ -1,4 +1,4 @@
-package edu.projetos_intermediarios.toDo;
+package edu.projetos_intermediarios.lista_tarefas;
 
 import java.util.Scanner;
 
@@ -32,13 +32,13 @@ public class App {
                 }
                 case 2 -> {
                     System.out.print("Digite o índice da tarefa para remover: ");
-                    int indiceRemove = Integer.parseInt(scan.nextLine());
-                    gerenciadorDeTarefas.removeTarefa(indiceRemove);
+                    int indexRemove = Integer.parseInt(scan.nextLine());
+                    gerenciadorDeTarefas.removeTarefa(indexRemove);
                 }
                 case 3 -> {
                     System.out.print("Digite o índice da tarefa para marcar como concluída: ");
-                    int indiceCompleted = Integer.parseInt(scan.nextLine());
-                    gerenciadorDeTarefas.markAsCompleted(indiceCompleted);
+                    int indexCompleted = Integer.parseInt(scan.nextLine());
+                    gerenciadorDeTarefas.markAsCompleted(indexCompleted);
                 }
                 case 4 -> gerenciadorDeTarefas.listTarefas();
                 case 0 -> System.out.println("Saindo do programa\n");

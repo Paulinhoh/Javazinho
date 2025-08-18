@@ -1,4 +1,4 @@
-package edu.projetos_intermediarios.toDo;
+package edu.projetos_intermediarios.lista_tarefas;
 
 import java.util.ArrayList;
 
@@ -10,34 +10,34 @@ public class GerenciadorDeTarefas {
         this.tarefas = new ArrayList<>(); // Inicializa a lista de tarefas
     }
 
-    // Método para adicionar uma nova tarefa
+    // Metodo para adicionar uma nova tarefa
     public void addTarefa(String description) {
         Tarefa newTarefa = new Tarefa(description);
         this.tarefas.add(newTarefa);
         System.out.println("Tarefa adicionada com sucesso.\n");
     }
 
-    // Método para remover uma tarefa
-    public void removeTarefa(int indice) {
-        if (indice >= 0 && indice < tarefas.size()) {
-            this.tarefas.remove(indice);
+    // Metodo para remover uma tarefa
+    public void removeTarefa(int index) {
+        if (index >= 0 && index < tarefas.size()) {
+            this.tarefas.remove(index);
             System.out.println("Tarefa removida com sucesso.\n");
         } else {
             System.out.println("Indice Invalido!\n");
         }
     }
 
-    // Método para marcar uma tarefa como concluida
-    public void markAsCompleted(int indice) {
-        if (indice >= 0 && indice < tarefas.size()) {
-            this.tarefas.get(indice).setCompleted();
+    // Metodo para marcar uma tarefa como concluida
+    public void markAsCompleted(int index) {
+        if (index >= 0 && index < tarefas.size()) {
+            this.tarefas.get(index).setCompleted();
             System.out.println("Tarefa marcada como concluida.\n");
         } else {
             System.out.println("Indice Invalido!\n");
         }
     }
 
-    // Método para listar todas as tarefas
+    // Metodo para listar todas as tarefas
     public void listTarefas() {
         System.out.println("\n--- Lista de Tarefas ---");
         if (tarefas.isEmpty()) {
