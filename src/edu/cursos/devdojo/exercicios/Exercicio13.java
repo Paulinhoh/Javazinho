@@ -1,4 +1,4 @@
-package edu.exercicios;
+package edu.cursos.devdojo.exercicios;
 
 import java.util.Scanner;
 
